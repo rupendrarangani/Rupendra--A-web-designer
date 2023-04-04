@@ -1,0 +1,128 @@
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+}
+h1{
+    font-family: Sacramento;
+    font-size: 5.62rem;
+    color: #66BFBF;
+
+}
+#web{
+    font-family:sans-serif;
+    font-size: 2.5rem;
+}
+h2{
+    font-family:Calibri, 'Trebuchet MS', sans-serif;
+    color: #66BFBF;
+    
+}
+h3{
+    font-family:sans-serif;
+    color: #66BFBF;
+}
+p{
+    line-height: 2;
+}
+img{
+    height: 400px;
+}
+hr{
+    border: dotted cornflowerblue 6px;
+    border-bottom: none;
+    width: 8%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.Rimg{
+    height: 60px;
+    width: 90px;
+    position: relative;
+    left: 300px;
+}
+.Rimg2{
+    height: 60px;
+    width: 90px;
+    position: relative;
+    bottom: 400px;
+    left: 50px;
+}
+.top-container{
+    background-color: #E4F9F5;
+    padding-top: 100px;
+}
+.img{
+    padding-top: 50px;
+}
+.coding{
+    width: 28%;
+    height: 28%;
+    float: left;
+    margin-right: 30px;
+
+}
+.man{
+    padding-top: 60px;
+    height: 20%;
+    width: 20%;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.Badminton{
+    height: 30%;
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+}
+.Love-Sports{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+a{
+    color: #11999E;
+    margin: 10px 20px;
+}
+.btn {
+    background: #66BFBF;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #66BFBF;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  .bottom-container{
+    margin-top: 60px;
+    background-color: #66BFBF;
+    padding: 20px 0 5px;
+  }
+  .name{
+    color: #EAF6f6;
+  }
+  
